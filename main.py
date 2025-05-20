@@ -9,7 +9,7 @@ from aiogram.fsm.state import State, StatesGroup
 from database import conn, cursor, UserProfile, _df as df
 
 # ---------- Настройка Бота ----------
-TOKEN = "8049310715:AAFGmVpSIiBsJ4zmLeEK5sC5e6P4Y-mf5bE"
+TOKEN = ""
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
 
