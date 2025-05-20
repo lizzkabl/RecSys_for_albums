@@ -9,8 +9,8 @@ from spotipy.oauth2 import SpotifyClientCredentials
 from requests.exceptions import ConnectionError
 
 # === Credentials ===
-SPOTIPY_CLIENT_ID     = "ef2dd8c50e474c05b4f0d1c4f65fc412"
-SPOTIPY_CLIENT_SECRET = "9b7781327c10494fa123e5de8965270f"
+SPOTIPY_CLIENT_ID     = ""
+SPOTIPY_CLIENT_SECRET = ""
 
 # === Parameters ===
 NEW_RELEASES_LIMIT   = 50    # сколько «новых релизов» взять
