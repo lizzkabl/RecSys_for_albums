@@ -9,7 +9,7 @@ from tqdm import tqdm
 import re
 import unicodedata
 
-GENIUS_TOKEN = "3a8YnV4wcAfo6jbpm6gHkAXfEQ9D9lOa8pZ28task2qRkOMWvFZGha_LJFnW6TPE"
+GENIUS_TOKEN = ""
 
 
 def clean_lyrics(lyrics):
